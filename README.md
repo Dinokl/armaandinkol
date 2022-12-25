@@ -1,7 +1,0 @@
-# armaandinkol 
-
-keyboard
-
-videocall 
-calling 
-
